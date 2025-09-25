@@ -29,8 +29,6 @@ Your API should be able to perform the following actions:
 - `U`pdate meals after eating them (select the documents by ID)
 - `D`elete a plan, if the user decided not to follow it that day, or if editing a plan would take longer than deleting and creating a new one
 
-You do **not** need to have any EJS or an interface of any kind. This is _just_ an API.
-
 Stretch goals:
 
 **You will have to do some research for some of the below.**
