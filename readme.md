@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-There are some starter files in this lesson, most of which are empty. It's already standard to have a Separation of Concerns by separating things into various folders, which can also provide us a good structure for the lesson. There will be a FINAL and START versions of each file we are editing. We will also be editing the `index.js` file.
+There are some starter files in this lesson, most of which are empty. It's already standard to have a Separation of Concerns by separating things into various folders, which can also provide us a good structure for the lesson. 
 
 To begin, there should be a package.json provided. This means we can install all the dependencies with one command:
 
