@@ -11,7 +11,7 @@
 - `C`reate
 - `R`ead
 - `U`pdate
-- `D`estroy
+- `D`elete
 
 ---
 
