@@ -22,6 +22,8 @@ Your database only needs one collection, to store the plan for a day. When it co
 
 Things such as Snacks or Dessert are optional.
 
+Your Date should be used as the main identifier for your Meal Plan so it should be both required and unique.  You are free to add any additional properties (required, unique, default) as you see fit to any of the fields in your schema.
+
 Your API should be able to perform the following actions:
 
 - `C`reate a plan for a new date
